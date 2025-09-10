@@ -1,3 +1,16 @@
+# Unity Design - Week 02
+
+## Agenda
+
+1. [GameObjects & Components](#GameObjects-Components)  
+2. [Unity C# Basics](#Unity-C#-Basics)  
+3. [Arithmetic Operators & Order of Operations](#Arithmetic-Operators-Order-of-Operations)  
+4. [C# - Beginner Unity Scripting](#Beginner-Unity-Scripting)  
+5. [UI Canvas and UI Components](#UI-Canvas-and-UI-Components)  
+6. [Class Assignment - Week #02](#Flappy-Bird-Game)  
+
+---
+
 # GameObjects & Components
 
 The fundamental **GameObject–Component** architecture in Unity, with diagrams and examples.
@@ -626,7 +639,7 @@ https://learn.unity.com/course/roll-a-ball?version=6.0
 
 ---
 
-# UI Canvas
+# UI Canvas and UI Components
 ## 🖼️ The Canvas
 - The **foundation** of every Unity UI.
 - All UI elements **must** be children of a Canvas.

@@ -13,7 +13,7 @@ Together, they form the foundation of every Unity project.
 
 - **Unity Scene Diagram**:  
 
-[![Unity Scene composition](images/scene.png)]
+[![Unity Scene composition](images/scene.png)
 
 ---
 
@@ -26,7 +26,7 @@ Together, they form the foundation of every Unity project.
 
 - **Unity GameObject Diagram **:  
 
-[![Unity Game Object](images/gameobject.png)]
+[![Unity Game Object](images/gameobject.png)
 
 ---
 
@@ -43,7 +43,7 @@ Together, they form the foundation of every Unity project.
 
 - **Unity Components Diagram **:  
 
-[![Unity Components](images/hierarchy.png)]
+[![Unity Components](images/hierarchy.png)
 
 ---
 

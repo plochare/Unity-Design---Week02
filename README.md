@@ -709,14 +709,6 @@ Unity provides special components to help organize UI:
 
 ---
 
-## 🖼️ Visual Diagram
-
-![Unity UI Canvas Diagram](https://docs.unity3d.com/uploads/Main/UIBasicLayout.png)
-
-*Unity’s UI system: Canvas as root, with panels, buttons, and text as children.*
-
----
-
 ## 💡 Best Practices
 - Use **TextMeshPro** instead of legacy Text.
 - Organize UI using **Panels** and **Layout Groups** for flexibility.
@@ -738,8 +730,8 @@ Unity provides special components to help organize UI:
 - 📖 [Unity Manual – Canvas](https://docs.unity3d.com/Manual/UICanvas.html)  
 - 📖 [Unity Manual – UI Components](https://docs.unity3d.com/Manual/script-UI.html) 
 
-** UI Components Video Tutorial **
-https://learn.unity.com/tutorial/ui-components
+### **UI Components Video Tutorial **
+- https://learn.unity.com/tutorial/ui-components
 
 ---
 

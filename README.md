@@ -1,10 +1,65 @@
+# GameObjects & Components
+
+The fundamental **GameObject–Component** architecture in Unity, with diagrams and examples.
+
+---
+
+## 📌 Overview
+Unity uses a **composition-based design**, where:
+- **GameObjects** are the basic building blocks of a scene.
+- **Components** are the modular behaviors and properties you attach to GameObjects.
+
+Together, they form the foundation of every Unity project.
+
+- **Unity Scene Diagram**:  
+
+[![Unity Scene composition](images/scene.png)]
+
+---
+
+## 📌 GameObjects
+- The **basic container** in Unity.
+- Represents anything in your scene: characters, props, cameras, UI, lights.
+- Always includes a **Transform Component** (position, rotation, scale).
+
+👉 Think of a **GameObject** as an **empty box** that gains functionality only when you add Components.
+
+- **Unity GameObject Diagram **:  
+
+[![Unity Game Object](images/gameobject.png)]
+
+---
+
+## 📌 Components
+- **Behavioral building blocks** that define *what a GameObject does*.
+- Examples:
+  - `Mesh Renderer` → makes an object visible.
+  - `Rigidbody` → enables physics.
+  - `Collider` → defines physical boundaries.
+  - `Audio Source` → plays sounds.
+  - `MonoBehaviour` scripts → add custom logic.
+
+👉 Think of **Components** as **ingredients** you add to your GameObject to make it useful.
+
+- **Unity Components Diagram **:  
+
+[![Unity Components](images/hierarchy.png)]
+
+---
+
+## ⚙️ How They Work Together
+Every GameObject starts with a `Transform`.  
+You can then attach multiple Components to build its full behavior:
+
+
+
 # Data Types and Variables
 
 A beginner-friendly guide introducing the core foundations of C# used in Unity game development.
 
 ---
 
-## Data Types
+## 📌 Data Types
 
 A **data type** determines:
 
@@ -21,7 +76,7 @@ Though C# offers over ten data types, only the most commonly used ones are neede
 
 ---
 
-## Variables
+## 📌 Variables
 
 Variables are essentially “named boxes” that store data for use elsewhere in your code. Each variable must have:
 
@@ -56,7 +111,7 @@ Sometimes you need to convert between data types, such as:
 
 ---
 
-## Arithmetic Operators & Order of Operations
+## 📌 Arithmetic Operators & Order of Operations
 
 You can use standard arithmetic operators (e.g., `+`, `-`, `*`, `/`) on numeric variables. C# follows familiar math precedence rules—multiplication and division are evaluated before addition and subtraction.
 
@@ -90,7 +145,7 @@ A foundational guide to understanding and using conditional logic (`if`, `else`,
 
 ---
 
-## What Are Conditional Statements?
+## 📌 What Are Conditional Statements?
 
 Conditional statements allow your code to execute specific blocks based on whether a condition evaluates to **true** or **false**. They're essential for branching logic, handling events, and making your game interactive.
 
@@ -137,7 +192,7 @@ Since `3f` is not greater than `4f`, this block won't execute.
 
 ---
 
-# Comparison Operators You Can Use
+## 📌 Comparison Operators You Can Use
 
 Comparison operators enable nuanced checks:
 
@@ -190,7 +245,7 @@ This creates a clear decision flow for varying health levels.
 
 ---
 
-## Practical Unity Examples
+## 🚀 Practical Unity Examples
 
 Here are practical uses of conditional statements in Unity contexts:
 

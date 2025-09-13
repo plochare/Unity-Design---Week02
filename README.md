@@ -652,6 +652,18 @@ https://learn.unity.com/course/roll-a-ball?version=6.0
 2. **Screen Space - Camera** → UI is rendered relative to a camera.
 3. **World Space** → UI behaves like a 3D object in the scene.
 
+---
+
+## 🚀 Getting Started
+1. Create a new Canvas (`GameObject > UI > Canvas`).
+2. Add a **Panel** to serve as background.
+3. Add UI elements: Text, Buttons, Sliders, etc.
+4. Attach scripts to UI elements to handle interaction.
+
+---
+
+## 🎥 UI Components Video Tutorials
+- https://learn.unity.com/tutorial/ui-components
 
 ---
 
@@ -729,25 +741,14 @@ Unity provides special components to help organize UI:
 
 ---
 
-## 🚀 Getting Started
-1. Create a new Canvas (`GameObject > UI > Canvas`).
-2. Add a **Panel** to serve as background.
-3. Add UI elements: Text, Buttons, Sliders, etc.
-4. Attach scripts to UI elements to handle interaction.
-
----
-
 ## 📚 Resources
 - 📖 [Unity Manual – UI Overview](https://docs.unity3d.com/Manual/UISystem.html)  
 - 📖 [Unity Manual – Canvas](https://docs.unity3d.com/Manual/UICanvas.html)  
 - 📖 [Unity Manual – UI Components](https://docs.unity3d.com/Manual/script-UI.html) 
 
-### **UI Components Video Tutorial **
-- https://learn.unity.com/tutorial/ui-components
-
 ---
 
-## 📌 Practice Exercise - Flappy Bird Game
+## 🎥 Practice Exercise - Flappy Bird Game
 
 - Step-by-Step Unity Tutorial For complete beginners with video review of Unity programming concepts
 - https://github.com/Britishgaming/GMTK-Unity-Tutorial

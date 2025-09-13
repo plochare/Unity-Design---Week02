@@ -7,7 +7,7 @@
 3. [Arithmetic Operators & Order of Operations](#Arithmetic-Operators-Order-of-Operations)  
 4. [C# - Beginner Unity Scripting](#Beginner-Unity-Scripting)  
 5. [UI Canvas and UI Components](#UI-Canvas-and-UI-Components)  
-6. [Class Assignment - Week #02](#Flappy-Bird-Game)  
+6. [Class Assignment - Week #02](#Create-with-Code)  
 
 ---
 
@@ -747,15 +747,17 @@ Unity provides special components to help organize UI:
 
 ---
 
+## 📌 Practice Exercise - Flappy Bird Game
+
+- Complete Step-by-Step Unity Tutorial For Complete Beginners with video review of Unity programming concepts
+- https://github.com/Britishgaming/GMTK-Unity-Tutorial
+- https://www.youtube.com/watch?v=XtQMytORBmM
+
+---
+
 ## 📌 Assignment Week #2 - Create With Code - Unit 1 Player Control
 - Official course from Unity, you will learn to Create with Code as you program your own exciting projects from scratch in C#.
 - https://learn.unity.com/course/create-with-code?uv=6
 
---
-
 - Program a car moving side-to-side on a floating road, trying to avoid (or hit) obstacles in the way. In addition to becoming familiar with the Unity editor and workflow, you will learn how to create new C# scripts and do some simple programming. By the end of the Unit, you will be able to call basic functions, then declare and tweak new variables to modify the results of those functions.
 - https://learn.unity.com/project/unit-1-driving-simulation?uv=6&courseId=5cf96c41edbc2a2ca6e8810f
-
-
-
-

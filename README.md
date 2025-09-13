@@ -749,7 +749,7 @@ Unity provides special components to help organize UI:
 
 ## 📌 Practice Exercise - Flappy Bird Game
 
-- Complete Step-by-Step Unity Tutorial For Complete Beginners with video review of Unity programming concepts
+- Step-by-Step Unity Tutorial For complete beginners with video review of Unity programming concepts
 - https://github.com/Britishgaming/GMTK-Unity-Tutorial
 - https://www.youtube.com/watch?v=XtQMytORBmM
 
